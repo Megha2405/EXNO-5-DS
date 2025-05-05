@@ -18,7 +18,6 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
-![output](<Screenshot 2025-05-05 110411.png>)
 ![output](<Screenshot 2025-05-05 110426.png>)
 ![ouput](<Screenshot 2025-05-05 110439.png>) 
 ![ouput](<Screenshot 2025-05-05 110446.png>)
