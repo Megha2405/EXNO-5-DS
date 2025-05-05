@@ -18,7 +18,22 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
- Include the necessary coding and corresponding screenshots
+![output](<Screenshot 2025-05-05 110411.png>)
+![output](<Screenshot 2025-05-05 110426.png>)
+![ouput](<Screenshot 2025-05-05 110439.png>) 
+![ouput](<Screenshot 2025-05-05 110446.png>)
+![ouput](<Screenshot 2025-05-05 110457.png>)
+![ouput](<Screenshot 2025-05-05 110505.png>) 
+![ouput](<Screenshot 2025-05-05 110527.png>) 
+![ouput](<Screenshot 2025-05-05 110538.png>)
+![ouput](<Screenshot 2025-05-05 110545.png>) 
+![ouput](<Screenshot 2025-05-05 110554.png>)
+![ouput](<Screenshot 2025-05-05 110601.png>) 
+![ouput](<Screenshot 2025-05-05 110610.png>)
+![ouput](<Screenshot 2025-05-05 110616.png>)
+![output](<Screenshot 2025-05-05 110626.png>) ![output](<Screenshot 2025-05-05 110637.png>) ![output](<Screenshot 2025-05-05 110725.png>) ![output](<Screenshot 2025-05-05 110734.png>) ![output](<Screenshot 2025-05-05 110740.png>) ![output](<Screenshot 2025-05-05 110746.png>) ![output](<Screenshot 2025-05-05 110754.png>) ![output](<Screenshot 2025-05-05 110801.png>) ![output](<Screenshot 2025-05-05 110807.png>) ![output](<Screenshot 2025-05-05 110813.png>) ![output](<Screenshot 2025-05-05 110819.png>) ![output](<Screenshot 2025-05-05 110826.png>)
+![output](<Screenshot 2025-05-05 110834.png>)
+     
 
 # Result:
- Include your result here
+      Thus, all the data visualization techniques of matplotlib has been implemented.
